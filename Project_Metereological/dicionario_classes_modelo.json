@@ -1,0 +1,6 @@
+{
+    "Cloud": 0,
+    "Rain": 1,
+    "Shine": 2,
+    "Sunrise": 3
+}
